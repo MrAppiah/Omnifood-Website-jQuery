@@ -113,7 +113,7 @@
 		.sticky .main-nav li a:visited {
 			padding: 10px 0;
 		}
-		/* .sticky .mobile-nav-icon { margin-top: } */
+
 		.sticky .mobile-nav-icon i {
 			color: #555;
 		}
@@ -170,6 +170,10 @@
 			.social-links {
 				list-style: none;
 				margin: auto;
+			}
+
+			.footer-nav {
+				font-size: 12px;
 			}
 
 			footer p {
